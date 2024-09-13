@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I love to play games!**
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/shaarad-jarandikar/</h3>
+<h3 align="left">Connect with me:https: //www.linkedin.com/in/shaarad-jarandikar/</h3>
 <p align="left">
 </p>
 
