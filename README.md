@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaarad NJ</h1>
 <h3 align="center">Coding by day, gaming by night!</h3>
 
-- 🤝 I’m looking for help with **Hyperledger-fabric**
+- 🤝 I’m looking for help with **Golang**
 
 - 📫 How to reach me **shaaradjaradikar@gmail.com**
 
