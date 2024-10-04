@@ -7,6 +7,7 @@
 
 - ⚡ Fun fact **I love to play games!**
 
+-💤 I like to sleep in free time
 
 <p align="left">
 </p>
